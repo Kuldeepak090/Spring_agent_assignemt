@@ -1,0 +1,3 @@
+Create dtatabase anudip1;
+use anudip1;
+Create table agent(int id, varchar(23) name, varchar(23) commission));
